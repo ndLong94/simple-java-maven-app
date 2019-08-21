@@ -14,7 +14,7 @@ public class App
 
     public static void main(String[] args) {
         try {
-            TimeUnit.MINUTES.sleep(10);
+            TimeUnit.MINUTES.sleep(1);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
